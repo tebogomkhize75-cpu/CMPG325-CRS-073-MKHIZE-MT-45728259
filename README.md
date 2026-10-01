@@ -8,3 +8,9 @@ CR11: VoIP Accommodation
 
 Milestone 1: Client Design Review - Physical/Logical Topology + IP Plan
 Constraint: Zero downtime during month-end - redundant trunks implemented.
+
+MILESTONE 2
+1. Working Packet Tracer file
+2. Assigned feature implemented
+3. Testing evidence
+4. Updated GitHub portfolio
